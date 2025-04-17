@@ -23,7 +23,7 @@
             version = "0.0.0";
 
             src = ts-go-src;
-            vendorHash = "sha256-Hxgoxmu2rqfDKKiJOXfXoPxNMt/iAQnqx4cRFQj1KWU=";
+            vendorHash = "sha256-YCYZZf+uMkLFpbkNEuwVQaD1mkFaat7ZLYssUyMV8C8=";
 
             meta = {
               homepage = "https://github.com/microsoft/typescript-go";
